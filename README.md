@@ -1,6 +1,7 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-![](https://visitor-badge.glitch.me/badge?page_id=sun0225SUN)
+# 𝗜'𝗺 Wei Qi
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);&center=true&size=27" alt="Typing SVG" />
 
 
 
